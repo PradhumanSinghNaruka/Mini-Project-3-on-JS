@@ -1,0 +1,17 @@
+.main{
+    background-color: #1f2833;
+    text-align: center;
+    margin-top: 8%;
+}
+.main1{
+    background-color: aliceblue;
+    width: 40vw;
+    text-align: center;
+    margin-left: 30vw;
+    height: 30vw;
+    border-radius: 10px;
+}
+.button{
+    margin-top: 2vw;
+    width: 40vw;
+}
